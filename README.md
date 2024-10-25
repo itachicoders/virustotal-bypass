@@ -1,6 +1,6 @@
 # VirusTotal Bypass ✅
 
-- A tool designed to bypass VirusTotal detection.
+- Kerpy is a tool designed to bypass VirusTotal detections, this project is in beta and will be improved!
 
 ## Detections
 <p float="left" align="center">
@@ -10,11 +10,11 @@
 ## Features
 - 🌠 +1500 VM List Blocked
 - ⚡ Anti-VM (RDP, VirtualBox, etc)
-- 🌟 Filters: MAC, HWID, IP, NAME, GPU, GUIDS, BIOS, DLL
+- 🌟 Filters: MAC, HWID, IP, NAME, GPU, GUIDS, BIOS, AND DLL!
 
 ## ⚠️ Important
- * This project is for educational purposes only! 
- * Do not use it for illegal activities!
+- I do not support any type of malicious activity with my code, nor take any responsability for any damage caused by it. Use at your own risk. 
+- For learning purposes
 
 ## How to build
 New version 
