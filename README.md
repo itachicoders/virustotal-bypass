@@ -19,7 +19,7 @@
 ## How to build
 New version 
 ```cpp
-g++ -o main main.cpp -lws2_32 -liphlpapi -luuid -lurlmon
+g++ -o main.exe main.cpp -lws2_32 -liphlpapi -luuid -lurlmon
 ```
 ------------
 Old version
