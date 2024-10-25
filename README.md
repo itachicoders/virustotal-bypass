@@ -25,4 +25,4 @@ g++ -o kerpy.exe kerpy.cpp -lws2_32 -liphlpapi
 
 ## Credits
 - Telegram: @itachichrist
-- The code was borrowed from github.com/Lawxsz/bypass-virus-total
+- The code was borrowed from [github.com/Lawxsz/bypass-virus-total](https://github.com/Lawxsz/bypass-virus-total)
